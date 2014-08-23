@@ -1,0 +1,18 @@
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\bin\Debug\TextChanged_Event_Example_VB.exe
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\bin\Debug\TextChanged_Event_Example_VB.pdb
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\bin\Debug\TextChanged_Event_Example_VB.xml
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.Form1.resources
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.Resources.resources
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.vbproj.GenerateResource.Cache
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.exe
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.xml
+c:\users\dev1\documents\visual studio 2010\Projects\TextChanged_Event_Example_VB\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.pdb
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.exe
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.xml
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.pdb
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\bin\Debug\TextChanged_Event_Example_VB.exe
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\bin\Debug\TextChanged_Event_Example_VB.pdb
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\bin\Debug\TextChanged_Event_Example_VB.xml
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.Form1.resources
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.Resources.resources
+C:\Users\Dev1\Documents\GitHub\SampleVBTextChanged\TextChanged_Event_Example_VB\obj\x86\Debug\TextChanged_Event_Example_VB.vbproj.GenerateResource.Cache
